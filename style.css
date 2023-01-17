@@ -1,0 +1,32 @@
+* {
+    background-color: #1D252C;
+    font-family: "DejaVu Serif", Helvetica, sans-serif;
+    color: #ffffff;
+}
+
+#title {
+    text-align: center;
+}
+
+.link {
+    color: #539AFC;
+}
+
+.subtitle {
+    color: #EBBF83;
+}
+
+h3 {
+    color: #8BD49C;
+}
+
+img {
+    float: right;
+    margin: 0 15px 15px 15px;
+    height: auto;
+    width: 300px;
+}
+
+body {
+    margin: 15px 15px 15px 15px;
+}
